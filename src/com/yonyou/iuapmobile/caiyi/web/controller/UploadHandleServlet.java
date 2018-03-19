@@ -20,7 +20,7 @@ import org.apache.commons.fileupload.servlet.ServletFileUpload;
 
 /**
  * 文件上传处理
- * @author Administrator
+ * @author caiyi
  *
  */
 public class UploadHandleServlet extends HttpServlet {
